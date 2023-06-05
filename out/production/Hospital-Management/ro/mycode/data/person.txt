@@ -1,0 +1,5 @@
+Doctor,3,Popescu,Ioana,40,dermattologie,mail3,pass3
+Doctor,4,Burlan,Andreea,29,cardiologie,mail4,pass4
+Patient,5,Ene,Maria,20,depresie,mail5,pass5
+Patient,6,Enache,Daria,22,sinuzita,mail6,pass6
+
